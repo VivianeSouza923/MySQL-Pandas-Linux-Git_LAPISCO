@@ -1,4 +1,5 @@
-insert into pessoas
-(id, nome, nascimento, sexo, peso, altura, nacionalidade)
-values
-('1', 'Vivi', '1996-06-19', 'F', '47.0', '1.49', 'brasileira');
+insert into viviane values
+('Thorin', '2017-02-14', 'M', '16.0', '1.00', 'brasileirO');
+
+select * from viviane;
+
